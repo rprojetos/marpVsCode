@@ -1,0 +1,231 @@
+---
+
+marp: true
+inlineSVG: true
+draft: true
+
+---
+<!-- _color: red -->
+![bg 80%](img/markdown.png)
+
+# Titulo da apresentação
+
+## Sub título
+
+<br/><br/>
+
+### Ricardo Poleto
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+
+![bg 80%](img/extMap.jpg)
+
+# Instale a extensão Map no Vs Code.
+#
+#
+
+![ExtensaoMarp](/img/marpForVsCode.jpg "Marp for Vs Code")
+
+<!-- _footer: https://github.com/rprojetos -->
+
+<!-- 3 tracinhos = new page -->
+---
+<!-- _class: invert -->
+
+![bg 100%](img/pag2.png)
+
+# => tamanho h1
+## => tamanho h2
+### => tamanho h3
+#### => tamanho h4
+##### => tamanho h5
+###### => tamanho h6
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+
+<!-- _class: invert -->
+
+![bg 100%](img/pag3.png)
+
+**Utilizando NEGRITO**
+
+*Utilizando ITÁLICO*
+
+***Utilizando NEGRITO e ITÁLICO***
+
+~~TAXANDO uma String~~
+
+***~~NEGRITO / ITÁLICO / TAXADO~~***
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+
+![bg 100%](img/pag4.png)
+
+# Citações:
+
+> Essa é uma citação
+>
+>-   rprojetos.ti
+>> Citação dentro de uma citação
+>>
+>>- rprojetos.ti
+
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+![bg 100%](img/pag5.png)
+
+# Lista não ordenada
+
+[*] Simbolo válido
+[-] Simbolo válido
+[+] Simbolo válido
+
+Basta usar identação:
+Exemplo:
+- linha 1
+- linha 2
+  - linha 2.1
+  - linha 2.2
+    - linha 2.2.1
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+![bg 100%](img/pag6.png)
+
+# Lista ordenada
+
+Basta inserir a numeração seguida de ponto:
+1. Linha-1
+2. linha-2
+
+Ou tambem pode ser inserido sempre 1.
+... assim a numeração é automática:
+1. Linha-1
+1. Linha-2
+   1. Linha-i
+   1. Linha-ii
+      1. Linha-a
+      1. Linha-b
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+
+![bg 100%](img/pag7.png)
+
+# Formatando 
+# Trechos de Código
+
+Basta inserir 2 acentos grave [`crase`]:
+
+*O trecho  `entre as crases` foi formatado.*
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+
+![bg 100%](img/pag8.png)
+
+# Criando Tabelas
+
+( | ) pipe forma a divisória entre cada célula.
+( ------- ) os traços com o pipe formam a tabela.
+
+| cabeçalho 1| cabeçalho 2| 
+|------------|------------|
+| celula 1.1 | celula 1.2 | 
+| celula 2.1 | celula 2.2 | 
+| celula 3.1 | celula 3.2 | 
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+
+![bg 100%](img/pag9.png)
+
+# Adicionando Links
+
+## Link Externo
+
+`[nome do link](endereço do link)`
+
+[ln rprojetos.ti](https://www.linkedin.com/in/ricardo-poleto/)
+
+Opcionalmente pode ser inserido um titulo no link:
+
+`[nome do link](endereço.do.link "Titulo do link")`
+
+[ln rprojetos.ti](https://www.linkedin.com/in/ricardo-poleto/ "Perfil linkedin")
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+
+![bg 100%](img/pag10.png)
+
+# Adicionando Links
+
+## Link Interno
+
+`[nome do link](endereço do dir/arq)`
+
+[Documento-1](/documentos/documento-1 "Teste de link interno")
+
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+
+![bg 100%](img/pag11.png)
+
+# Adicionando Imagens
+
+## Link Interno
+
+`![Logo do Python](/img/logoPy.jpg "Esse é um logo do Python")`
+
+![Logo do Python](/img/logoPy.jpg "Esse é um logo do Python")
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+
+![bg 100%](img/pag12.png)
+
+# Exportando para pdf:
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+<!-- _footer: https://github.com/rprojetos -->
+
+---
+
+![bg 100%](img/)
+
+# Referências:
+
+- [Canal Programação Dinâmica](https://github.com/marp-team/marp-vscode "Canal do Hallison e da Kizzy")
+
+- [github.com/marp-team](https://www.youtube.com/watch?v=Y2N9LswHNhc "github do framework marp")
+
+- [portal.revendadesoftware](https://portal.revendadesoftware.com.br/manuais/base-de-conhecimento/sintaxe-markdown "Site portal revenda de software")
+
+<!-- _footer: https://github.com/rprojetos -->
+
